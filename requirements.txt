@@ -3,6 +3,6 @@ vega-datasets==0.9.0
 numpy==1.21.0
 matplotlib==3.4.2
 pandas==1.2.0
-joblib==1.1.0
+joblib==1.0.1
 scikit-learn==0.23.0
 lightgbm==3.2.1
